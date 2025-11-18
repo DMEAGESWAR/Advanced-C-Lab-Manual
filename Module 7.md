@@ -1,8 +1,8 @@
 ## EXP NO:1 C PROGRAM FOR ARRAY OF STRUCTURE TO CHECK ELIGIBILITY FOR THE VACCINE.
 
-NAME: JAGADEESH.A
+NAME: D MEAGESWAR
 
-REG.NO: 212224230098
+REG.NO: 212224230154
 
 Aim:
 To write a C program for array of structure to check eligibility for the vaccine person age above 6 years of age.
